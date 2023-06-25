@@ -18,6 +18,7 @@ DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = True
 SUMMARY_MAX_LENGTH = 50
 USE_FOLDER_AS_CATEGORY = False
+THEME = "themes/myidea"
 
 # Blogroll
 LINKS = (('Google Scholar', 'https://scholar.google.nl/citations?user=sMYAv24AAAAJ&hl=en'),
