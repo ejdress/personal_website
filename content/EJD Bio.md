@@ -1,7 +1,7 @@
 Title:Bio
 Date: 2023-06-22
 
-<img src="lizzy-nanoscarf.jpg" alt="drawing" width="200"/>
+<img src="images/lizzy-nanoscarf.jpg" alt="drawing" width="200"/>
 
 I am a fifth year PhD Student with Prof. Joel Moore in UC Berkely Physics Department. My PhD research has focused on novel physics in topological insulators and quantum phase transitions. I am currently finishing my dissertation, *Localization in quantum and classical disordered systems*.  Upon its completion, I am excited to apply techniques and ideas from my doctoral research to beginning a career in soft matter physics.
 
