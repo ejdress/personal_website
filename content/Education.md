@@ -9,6 +9,6 @@ B. A. Physics, University of Pennsylvania 2017
 M. S. Physics, University of Pennsylvania 2017 
 
 
-Ph. D. Physics, University of California Berkeley, expected 2023
+Ph. D. Physics, University of California Berkeley, 2023
 
 
