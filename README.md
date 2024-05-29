@@ -16,3 +16,4 @@ $ git push origin gh-pages
 
 To do so, open you Anaconda command prompt, `conda activate analysis`, and then run these commands. After the last line, you will be asked to provide your GitHub loging credentials.
 
+Actually, you can also do this from new Matilda, which might be a nicer workflow since you have Ubuntu WSL installed into new Matilda.
