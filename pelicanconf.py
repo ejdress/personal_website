@@ -1,6 +1,6 @@
 AUTHOR = 'Elizabeth J Dresselhaus'
 SITENAME = 'Elizabeth J Dresselhaus'
-SITEURL = ''
+SITEURL = 'https://ejdress.github.io/personal_website'
 
 PATH = 'content'
 
