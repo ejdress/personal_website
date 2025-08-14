@@ -9,6 +9,8 @@ I am also passionate about teaching and scientific outreach.  I have been a teac
 
 Outside of physics and knitting (and now machine knitting!), I enjoy swimming, cooking, playing violin with friends, and hiking.
 
+Please email me any inquiries about research at ej_dresselhaus@berkeley.edu.
+
 
 
 
